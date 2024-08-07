@@ -1,3 +1,3 @@
-names="Harry, Ron ,Hermmione"
+names= ["Harry", "Ron" ,"Hermmione"]
 
-print (names)
+print (names[0])
